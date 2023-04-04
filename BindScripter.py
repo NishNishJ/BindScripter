@@ -1,4 +1,4 @@
-__author__ = "kenish25"
+__author__ = "NishNishJ"
 import pyperclip
 import math
 
